@@ -1,0 +1,9 @@
+package:
+  git:
+    installed: true
+    versions:
+    - 1:2.7.4-0ubuntu1.2
+  php-cli:
+    installed: true
+    versions:
+    - 1:7.0+35ubuntu6
